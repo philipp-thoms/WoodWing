@@ -1,0 +1,6 @@
+[submodule "test_sub"]
+	path = test_sub
+	url = https://github.com/AnkeAugustin/test_sub.git
+[submodule "config/sub_plugins"]
+	path = config/sub_plugins
+	url = https://github.com/AnkeAugustin/sub_plugins.git
